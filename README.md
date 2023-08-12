@@ -1,4 +1,3 @@
 # notes2
-notes2
-
+note
 note1
